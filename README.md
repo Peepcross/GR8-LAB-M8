@@ -25,9 +25,9 @@ El alineamiento tiene un largo de 513 residuos
 
 4. Segun la cantidad de gaps, de peor a mejor, el orden seria?
 
-BIBISER<Uniprot<ClustalW
+         BIBISER<Uniprot<ClustalW
 
-5. 
+5. ¿Qué cree usted que se podría hacer para mejorar los alineamientos obtenidos?
 
 
 
