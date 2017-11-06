@@ -31,9 +31,19 @@ El alineamiento tiene un largo de 513 residuos
 
 mejorarlos
 
-6.  Discutir el siguiente alineamiento :
+6.  Discutir el siguiente alineamiento:
 
 ![imagen:jonasa](https://github.com/Peepcross/GR8-LAB-M8/blob/master/jonasa.png)
+
+* Buscar y registrar las secuencias asociadas con cada familia.
+
+Todas comparten la familia Trypsin (PF00089) y en esta se encuentran asociadas 26418 secuencias. Cabe destacar que la estreptogrisina-A tambien forma parte de la familia Pro_Al_protease (PF02983), la cual consta con 695 secuencias asociadas. Por último la subtilisina BPN pertenece tambien a la familia Inhibitor_I9 (PF05922)y esta posee 6433 secuencias.
+
+P.7 BLast 
+
+
+
+
 
 
 
