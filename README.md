@@ -29,6 +29,12 @@ El alineamiento tiene un largo de 513 residuos
 
 5. ¿Qué cree usted que se podría hacer para mejorar los alineamientos obtenidos?
 
+mejorarlos
+
+6.  Discutir el siguiente alineamiento :
+
+![imagen:jonasa](https://github.com/Peepcross/GR8-LAB-M8/blob/master/jonasa.png)
+
 
 
 
